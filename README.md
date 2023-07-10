@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Babu</h1>
 <h3 align="center">A passionate Data Analyst and ML Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/a527f691d3c789ed7618f1c3edea804c.gif">
 
 - 👨‍💻 All of my projects are available at [rohitbabushop.wixsite.com/my-site-1](rohitbabushop.wixsite.com/my-site-1)
 
